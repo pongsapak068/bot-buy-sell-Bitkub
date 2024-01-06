@@ -5,8 +5,8 @@ import time
 import pandas as pd
 
 
-API_KEY = '5b5062f1392753aa914fee976c5d1a55ba982b190914eb4836dc790d4190e954'
-API_SECRET = '7594d4f5f98f41188a1839fcb27e67879ac1f737cb0a45b18f00e6526dbdb2e6kOtDO5qNLfSpY4ywHghJnVbHqokz'
+API_KEY = ''
+API_SECRET = ''
 
 bitkub = Bitkub()
 bitkub.set_api_key(API_KEY)
